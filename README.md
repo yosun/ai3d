@@ -12,6 +12,10 @@ Resources, benchmarks for 3D generation via AI and beyond
 # texture models
 - [TEXTure](https://github.com/TEXTurePaper)
 
+# 3D models that currently take more than 2 minutes
+- [Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
+- [Magic3D](https://github.com/chinhsuanwu/dreamfusionacc)
+
 # retopology tools
 
 - [InstantMeshes](https://github.com/wjakob/instant-meshes)
