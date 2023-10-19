@@ -20,3 +20,9 @@ Resources, benchmarks for 3D generation via AI and beyond
 # retopology tools
 
 - [InstantMeshes](https://github.com/wjakob/instant-meshes)
+
+
+# Commercial Solutions
+- Dreamfusion variant - [CSM API](https://csm.ai)
+- dlib front-face image to 3D, with hair gen / generic rigging - [AvatarSDK](https://accounts.avatarsdk.com/ref/W8lXwa/)
+- AI auto-rigging [AnythingWorld](https://anything.world/)
