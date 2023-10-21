@@ -12,6 +12,7 @@ Resources, benchmarks for 3D generation via AI and beyond
 
 # texture models
 - [TEXTure](https://github.com/TEXTurePaper)
+- [Text2Tex](https://github.com/daveredrum/Text2Tex)
 
 # 3D models that currently take more than 2 minutes
 - [Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
