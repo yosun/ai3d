@@ -12,6 +12,7 @@ Resources, benchmarks for 3D generation via AI and beyond
 - [HRN](https://github.com/youngLBW/HRN)
   ### Commercial Solutions
   - [AvatarSDK](https://accounts.avatarsdk.com/ref/W8lXwa/)
+  - [Meshcapade](https://meshcapade.com)
 
 # texture models
 - [TEXTure](https://github.com/TEXTurePaper)
