@@ -10,7 +10,7 @@ Resources, benchmarks for 3D generation via AI and beyond
 
 ## humans
 - [HRN](https://github.com/youngLBW/HRN)
-  # Commercial Solutions
+  ### Commercial Solutions
   - [AvatarSDK](https://accounts.avatarsdk.com/ref/W8lXwa/)
 
 # texture models
@@ -21,8 +21,8 @@ Resources, benchmarks for 3D generation via AI and beyond
 # 3D models that currently take more than 2 minutes
 - [Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
 - [Magic3D](https://github.com/chinhsuanwu/dreamfusionacc)
- # Commercial Solutions
-- [CSM API](https://csm.ai)
+ ### Commercial Solutions
+ - [CSM API](https://csm.ai)
 
 # retopology tools
 
@@ -32,5 +32,5 @@ Resources, benchmarks for 3D generation via AI and beyond
 ## animation
 - [MotionDiffusion](https://github.com/GuyTevet/motion-diffusion-model)
 - [SMPL](https://github.com/BioMotionLab/SUP)
-# Commerical Solutions 
-- AI auto-rigging [AnythingWorld](https://anything.world/)
+  ### Commerical Solutions 
+  - AI auto-rigging [AnythingWorld](https://anything.world/)
