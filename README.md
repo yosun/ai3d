@@ -35,3 +35,4 @@ Resources, benchmarks for 3D generation via AI and beyond
 - [SMPL](https://github.com/BioMotionLab/SUP)
   ### Commerical Solutions 
   - AI auto-rigging [AnythingWorld](https://anything.world/)
+  - [Cascadeur](https://cascadeur.com/)
