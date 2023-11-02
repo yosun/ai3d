@@ -6,7 +6,8 @@ Resources, benchmarks for 3D generation via AI and beyond
 - [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer)
 - [123-45](https://github.com/One-2-3-45/One-2-3-45)
 - [Shap-e](https://github.com/openai/shap-e)
-
+ ### Commercial Solutions
+  -[Meshy](https://docs.meshy.ai/api-image-to-3d)
 
 ## humans
 - [HRN](https://github.com/youngLBW/HRN)
