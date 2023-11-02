@@ -1,5 +1,5 @@
 # ai3d
-Resources, benchmarks for 3D generation via AI and beyond
+Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, also including select text to 3D) 
 
 # 3D models less than 2 minutes
 - [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian)
