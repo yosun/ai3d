@@ -7,6 +7,7 @@ Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, a
 
 # 3D models less than 2 minutes
 - 5s allegedly [LRM: Large Reconstruction Model for Single Image to 3D](https://scalei3d.github.io/LRM/)
+- [123-45++](https://github.com/SUDO-AI-3D/One2345plus)
 - [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian)
 - [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer)
 - [123-45](https://github.com/One-2-3-45/One-2-3-45)
