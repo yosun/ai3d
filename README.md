@@ -14,6 +14,7 @@ Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, a
 - [Shap-e](https://github.com/openai/shap-e)
   ### Commercial Solutions
   -[Meshy](https://docs.meshy.ai/api-image-to-3d)
+  -[Sudo](https://www.sudo.ai/)
 
 ## humans
 - [HRN](https://github.com/youngLBW/HRN)
