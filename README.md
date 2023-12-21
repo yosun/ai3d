@@ -30,6 +30,7 @@ Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, a
 # 3D models that currently take more than 2 minutes
 - [Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
 - [Magic3D](https://github.com/chinhsuanwu/dreamfusionacc)
+- [Wonder3D](https://github.com/xxlong0/Wonder3D)
  ### Commercial Solutions
  - [CSM API](https://csm.ai)
 
