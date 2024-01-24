@@ -18,6 +18,9 @@ Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, a
   - [Meshy](https://docs.meshy.ai/api-image-to-3d)
   - [Sudo](https://www.sudo.ai/)
 
+# 3D models in less than 5 minutes
+- [3dtopia](https://github.com/3DTopia/3DTopia)
+
 ## humans
 - [HRN](https://github.com/youngLBW/HRN)
   ### Commercial Solutions
