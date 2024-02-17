@@ -6,14 +6,14 @@
 Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, also including select text to 3D) 
 
 # 3D models less than 2 minutes
+- [LGM](https://github.com/3DTopia/LGM)
 - 5s allegedly [LRM: Large Reconstruction Model for Single Image to 3D](https://scalei3d.github.io/LRM/) https://github.com/3DTopia/OpenLRM
 - [HaMer hands!](https://github.com/geopavlakos/hamer)
 - [123-45++](https://github.com/SUDO-AI-3D/One2345plus)
 - [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian)
 - [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer)
-- [123-45](https://github.com/One-2-3-45/One-2-3-45)
+- [123-45](https://github.com/One-2-3-45/One-2-3-45) 
 - [Shap-e](https://github.com/openai/shap-e)
-- 
   ### Commercial Solutions
   - [Meshy](https://docs.meshy.ai/api-image-to-3d)
   - [Sudo](https://www.sudo.ai/)
