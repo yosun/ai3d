@@ -6,6 +6,7 @@
 Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, also including select text to 3D) 
 
 # 3D models less than 30s
+- [CRM](https://github.com/thu-ml/CRM)
 - [Tripo](https://github.com/VAST-AI-Research/TripoSR)
 - [LGM](https://github.com/3DTopia/LGM)
 - 5s allegedly [LRM: Large Reconstruction Model for Single Image to 3D](https://scalei3d.github.io/LRM/) https://github.com/3DTopia/OpenLRM
