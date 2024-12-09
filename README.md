@@ -22,6 +22,7 @@ Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, a
 - [Shap-e](https://github.com/openai/shap-e)
 
 # 3D models less than 2 minutes
+- [Rodin](https://github.com/RodinHD/RodinHD)
 - [123-45++](https://github.com/SUDO-AI-3D/One2345plus)
 - [DreamGaussian](https://github.com/dreamgaussian/dreamgaussian)
 - [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer)
