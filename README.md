@@ -11,6 +11,7 @@ Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, a
 - [StabilityAPI](https://platform.stability.ai/docs/api-reference)
 
 # 3D models less than 30s
+- [SPAR3D](https://github.com/Stability-AI/stable-point-aware-3d)
 - [Trellis](https://github.com/microsoft/TRELLIS)
 - [Stability3D](https://stability.ai/stable-3d)
 - [InstantMesh](https://github.com/TencentARC/InstantMesh)
