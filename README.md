@@ -5,14 +5,16 @@
 # ai3d
 Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, also including select text to 3D) 
 
+# 3D models less than 3s
+- [SF3D](https://huggingface.co/spaces/stabilityai/stable-fast-3d)
+- [SPAR3D](https://github.com/Stability-AI/stable-point-aware-3d)
+
 # 3D models less than 5s
 - [Dust3R](https://github.com/naver/dust3r) 
 
 - [StabilityAPI](https://platform.stability.ai/docs/api-reference)
 
 # 3D models less than 30s
-- [SF3D](https://huggingface.co/spaces/stabilityai/stable-fast-3d)
-- [SPAR3D](https://github.com/Stability-AI/stable-point-aware-3d)
 - [Trellis](https://github.com/microsoft/TRELLIS)
 - [Stability3D](https://stability.ai/stable-3d)
 - [InstantMesh](https://github.com/TencentARC/InstantMesh)
