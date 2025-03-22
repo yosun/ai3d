@@ -10,7 +10,8 @@ Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, a
 - [SPAR3D](https://github.com/Stability-AI/stable-point-aware-3d)
 
 # 3D models less than 5s
-- [Dust3R](https://github.com/naver/dust3r) 
+- [Dust3R](https://github.com/naver/dust3r)
+- [Roblox Cube](https://github.com/Roblox/cube)
 
 - [StabilityAPI](https://platform.stability.ai/docs/api-reference)
 
