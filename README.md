@@ -17,7 +17,8 @@ Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, a
 
 # 3D models less than 30s
 - [Trellis](https://github.com/microsoft/TRELLIS)
-- [Stability3D](https://stability.ai/stable-3d)
+- [Stability3D](https://stability.ai/stable-3d
+- [Real3D](https://hwjiang1510.github.io/Real3D/)
 - [InstantMesh](https://github.com/TencentARC/InstantMesh)
 - [CRM](https://github.com/thu-ml/CRM)
 - [Tripo](https://github.com/VAST-AI-Research/TripoSR)
