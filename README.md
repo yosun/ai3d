@@ -16,7 +16,7 @@ Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, a
 - [StabilityAPI](https://platform.stability.ai/docs/api-reference)
 
 # 3D models less than 30s
-- [HuanYuan3D v2])(https://github.com/Tencent/Hunyuan3D-2)
+- [HuanYuan3D v2](https://github.com/Tencent/Hunyuan3D-2)
 - [Trellis](https://github.com/microsoft/TRELLIS)
 - [Stability3D](https://stability.ai/stable-3d
 - [Real3D](https://hwjiang1510.github.io/Real3D/)
