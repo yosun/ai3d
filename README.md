@@ -8,7 +8,9 @@ Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, a
 # 3D models less than 3s
 - [SF3D](https://huggingface.co/spaces/stabilityai/stable-fast-3d)
 - [SPAR3D](https://github.com/Stability-AI/stable-point-aware-3d)
+  Entire Scene from Image (non generative)
 - [MOGE](https://github.com/microsoft/MoGe)
+- [UniK3D](https://github.com/lpiccinelli-eth/UniK3D)
 
 # 3D models less than 5s
 - [Dust3R](https://github.com/naver/dust3r)
