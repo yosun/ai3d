@@ -31,6 +31,7 @@ Entire Scene from Image (non generative)
 - 5s allegedly [LRM: Large Reconstruction Model for Single Image to 3D](https://scalei3d.github.io/LRM/) https://github.com/3DTopia/OpenLRM
 - [HaMer hands!](https://github.com/geopavlakos/hamer)
 - [Shap-e](https://github.com/openai/shap-e)
+- [Cube3D](https://github.com/Roblox/cube)
 
 # 3D models less than 2 minutes
 - [Rodin](https://github.com/RodinHD/RodinHD)
