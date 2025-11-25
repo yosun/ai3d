@@ -9,6 +9,7 @@ Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, a
 > [https://github.com/knightnemo/Awesome-World-Models]
 
 # 3D models less than 3s
+- [SAM3D Object](https://github.com/facebookresearch/sam-3d-objects)
 - [SF3D](https://huggingface.co/spaces/stabilityai/stable-fast-3d)
 - [SPAR3D](https://github.com/Stability-AI/stable-point-aware-3d)
 
@@ -56,6 +57,7 @@ Entire Scene from Image (non generative)
   ### Commercial Solutions
   - [AvatarSDK](https://accounts.avatarsdk.com/ref/W8lXwa/)
   - [Meshcapade](https://meshcapade.com)
+  - [Sam3D-body](https://github.com/facebookresearch/sam-3d-body)
 
 # texture models
 - [TEXTure](https://github.com/TEXTurePaper)
