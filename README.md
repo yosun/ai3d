@@ -15,6 +15,7 @@ Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, a
 - [SPAR3D](https://github.com/Stability-AI/stable-point-aware-3d)
 
 Entire Scene from Image (non generative)
+- [ML-Sharp](https://github.com/bring-shrubbery/ml-sharp-web)
 - [MOGE2](https://huggingface.co/spaces/Ruicheng/MoGe-2)
 - [MOGE](https://github.com/microsoft/MoGe)
 - [UniK3D](https://github.com/lpiccinelli-eth/UniK3D)
