@@ -5,6 +5,9 @@
 # ai3d
 Resources, benchmarks for 3D generation via AI and beyond (mostly image to 3D, also including select text to 3D) 
 
+# Decently Good WebGPU Image to 3D - runs on your browser!! 
+- [TripoSplatWebGPU](https://github.com/yosun/TripoSplatWebGPU)
+
 # World Models
 > [https://github.com/knightnemo/Awesome-World-Models]
 
