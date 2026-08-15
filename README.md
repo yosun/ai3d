@@ -84,6 +84,6 @@ Entire Scene from Image (non generative)
 ## animation
 - [MotionDiffusion](https://github.com/GuyTevet/motion-diffusion-model)
 - [SMPL](https://github.com/BioMotionLab/SUP)
-  ### Commerical Solutions 
+  ### Commercial Solutions
   - AI auto-rigging [AnythingWorld](https://anything.world/)
   - [Cascadeur](https://cascadeur.com/)
